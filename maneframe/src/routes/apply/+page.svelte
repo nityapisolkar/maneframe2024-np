@@ -29,6 +29,7 @@
     export let form;
     if (form?.gcc) {
         if (browser) {
+            window.location.href = "/"
             alert(form?.llvm)
             window.localStorage.setItem("email", form?.email)
         }

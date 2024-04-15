@@ -1,0 +1,29 @@
+{
+	"name": "maneframe",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@fontsource/fira-mono": "^4.5.10",
+		"@neoconfetti/svelte": "^1.0.0",
+		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/kit": "^2.0.0",
+		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"autoprefixer": "^10.4.19",
+		"daisyui": "^4.10.1",
+		"postcss": "^8.4.38",
+		"svelte": "^4.2.7",
+		"tailwindcss": "^3.4.3",
+		"vite": "^5.0.3"
+	},
+	"type": "module",
+	"dependencies": {
+		"airtable": "^0.12.2",
+		"nodemailer": "^6.9.13",
+		"svelte-typewriter": "^3.2.3",
+		"typewriter-effect": "^2.21.0"
+	}
+}

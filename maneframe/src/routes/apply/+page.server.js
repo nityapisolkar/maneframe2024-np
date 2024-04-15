@@ -98,6 +98,6 @@ export const actions = {
 
         })
         console.log("done: ", done.messageId)
-        return {gcc: true, llvm: "Thank you for signing up for Maneframe 2024! Check your email for more info.", email: llvm.get("email")}
+        return {gcc: true, llvm: "Thank you for signing up for Maneframe 2024! Check your email for more info. (Check your spam folder if you can't find it!)", email: llvm.get("email")}
     }
 };

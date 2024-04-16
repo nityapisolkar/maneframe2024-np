@@ -36,6 +36,18 @@
 			</Typewriter>
 		</div>
 		<div class="divider text-white divider-accent">
+			APPLY!
+		</div>
+		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
+
+			<div class="text-center w-1/4 m-10">
+				<h1 class="text-white text-5xl mt-16 ml-16 mr-16 mb-8 hover:animate-pulse">Show Your Interest!</h1>
+				<p class="text-white text-xl text-center justify-center content-center mb-4">ManeFrame will be at MLK Library in San Jose on April 27, 2024.</p>
+				<a href="/apply" id="llvmrefernce"><button class="button bg-white text-black text-2xl p-10 m-2 rounded-xl">APPLY</button></a>
+
+			</div>
+		</div>
+		<div class="divider text-white divider-accent">
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
 
@@ -70,14 +82,20 @@
 			</div>
 		</div>
 		<div class="divider text-white divider-accent">
-			APPLY!
+			SCHEDULE!
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
 
 			<div class="text-center w-1/4 m-10">
-				<h1 class="text-white text-5xl mt-16 ml-16 mr-16 mb-8 hover:animate-pulse">Show Your Interest!</h1>
-				<p class="text-white text-xl text-center justify-center content-center mb-4">ManeFrame will be at MLK Library in San Jose on April 27, 2024.</p>
-				 <a href="/apply" id="llvmrefernce"><button class="button bg-white text-black text-2xl p-10 m-2 rounded-xl">APPLY</button></a>
+				<h1 class="text-white text-5xl mt-16 ml-16 mr-16 mb-8 hover:animate-pulse">Schedule</h1>
+				<div class="text-white text-xl text-center justify-center content-center mb-4">
+					<p>9:00 A.M. - Orientation and Hacking Begins!</p>
+					<p>12:00 P.M. - Lunch</p>
+					<p>12:30 P.M. - Guest Speaker</p>
+					<p>4:00 P.M. - Submission Period Ends</p>
+					<p>5:00 P.M. - Winner and Award Ceremony</p>
+				</div>
+
 
 			</div>
 		</div>

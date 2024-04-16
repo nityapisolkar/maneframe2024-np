@@ -47,6 +47,7 @@
 
 			</div>
 		</div>
+		<!---->
 		<div class="divider text-white divider-accent">
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">

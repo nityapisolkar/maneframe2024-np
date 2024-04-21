@@ -13,7 +13,7 @@
                 if (element.value === "") {
 
                     butto.disabled = true
-                    butto.style.backgroundColor = "black"
+                    //butto.style.backgroundColor = "black"
                     total = false
                 }
             }
@@ -42,7 +42,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Apply</title>
 </head>
-<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900">
+<body class="overflow-x-hidden overflow-y-auto w-screen h-screen bg-gradient-to-b from-black to-indigo-900">
 <div class="z-30 w-screen h-2/5 text-center content-center justify-center relative row-start-1">
     <h1 class="text-7xl font-bold text-center animate-pulse text-white m-20 z-0">Apply</h1>
     <div class="flex content-center justify-center items-center">
@@ -83,7 +83,7 @@
                 <br>
                 <br>
                 <div class="card-actions justify-center">
-                    <button class="btn btn-black" id="submit">SUBMIT!</button>
+                    <button class="btn glass" id="submit">SUBMIT!</button>
                 </div>
                 </form>
             </div>

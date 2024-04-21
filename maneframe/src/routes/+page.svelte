@@ -31,7 +31,7 @@
 				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">Hosted at MLK Library at SJSU</p>
 			</Typewriter>
 		</div>
-		<div class="divider text-white divider-accent">
+		<div class="divider text-white divider-accent sm:text-4xl">
 			APPLY!
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
@@ -44,7 +44,7 @@
 			</div>
 		</div>
 		<!---->
-		<div class="divider text-white divider-accent">
+		<div class="divider text-white divider-accent sm:text-4xl">
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
 
@@ -60,7 +60,7 @@
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">Do you want to make something cool? Spend some time with friends? Or maybe learn something new? If so, you should come to the ManeFrame hackathon! Whether you're a seasoned programmer or just starting out, we have a place for you!</p>
 			</div>
 		</div>
-		<div class="divider text-white divider-accent">
+		<div class="divider text-white divider-accent sm:text-4xl">
 			FAQ
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 sm:flex text-center content-center justify-center content-center overflow-auto lg:overflow-hidden">
@@ -78,7 +78,7 @@
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">Nope! Maneframe is absolutely free! We encourage anyone in middle or high school to attend.</p>
 			</div>
 		</div>
-		<div class="divider text-white divider-accent">
+		<div class="divider text-white divider-accent sm:text-4xl">
 			SCHEDULE!
 		</div>
 		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">

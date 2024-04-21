@@ -19,11 +19,7 @@
 </script>
 
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>llvm ref</title>
-</head>
+
 
 <body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900">
 

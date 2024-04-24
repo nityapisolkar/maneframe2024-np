@@ -21,7 +21,7 @@
 <html lang="en">
 
 
-<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none object-contain">
+<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none object-contain grid grid-cols-1">
 
 		<div class="z-30 w-screen h-2/5 text-center items-center content-center justify-center relative row-start-1">
 			<h1 class="text-3xl sm:text-7xl font-bold sm:text-center animate-bounce text-white m-10 mb-20 sm:m-20 z-0">MANEFRAME</h1>
@@ -34,7 +34,7 @@
 		<div class="divider text-white divider-accent sm:text-4xl">
 			APPLY!
 		</div>
-		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
+		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">
 
 			<div class="text-center w-1/4 md:m-10">
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 mt-8 font-bold mb-8 hover:animate-pulse">Show Your Interest!</h1>
@@ -46,14 +46,14 @@
 		<!---->
 		<div class="divider text-white divider-accent sm:text-4xl">
 		</div>
-		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
+		<div class="w-screen flex text-center content-center justify-center content-center">
 
 			<img src="/img.png" alt="logo" class="object-scale-down"/>
 		</div>
 		<div class="divider text-white divider-accent">
 
 		</div>
-		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
+		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">
 
 			<div class="text-center w-1/2 sm:w-1/4 sm:m-10">
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Hey!</h1>
@@ -63,7 +63,7 @@
 		<div class="divider text-white divider-accent sm:text-4xl">
 			FAQ
 		</div>
-		<div class="w-screen h-1/2 bg-black bg-opacity-20 sm:flex text-center content-center justify-center content-center overflow-auto xl:overflow-hidden">
+		<div class="w-screen h-1/2 sm:flex text-center content-center justify-center content-center ">
 
 			<div class="text-center sm:w-1/4 m-10">
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2  mt-8 font-bold mb-8 hover:animate-pulse">What is a Hackathon?</h1>
@@ -81,7 +81,7 @@
 		<div class="divider text-white divider-accent sm:text-4xl">
 			SCHEDULE!
 		</div>
-		<div class="w-screen h-1/2 bg-black bg-opacity-20 flex text-center content-center justify-center content-center">
+		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">
 
 			<div class="text-center">
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 mt-2 font-bold mb-8 hover:animate-pulse">Schedule</h1>
@@ -158,6 +158,6 @@
 
 
 `
-<div class="footer border-t-2 border-white h-10 bg-black text-center justify-center"><p class="mt-2 text-white">C Maneframe 2024</p></div>
+<div class="footer border-t-2 border-white h-10 text-center justify-center"><p class="mt-2 text-white">C Maneframe 2024</p></div>
 </body>
 </html>

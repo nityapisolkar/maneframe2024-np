@@ -158,6 +158,6 @@
 
 
 `
-<div class="footer border-t-2 border-white h-10 text-center justify-center"><p class="mt-2 text-white">C Maneframe 2024</p></div>
+<div class="footer border-t-2 border-white h-10 text-center bg-black justify-center"><p class="mt-2 text-white">© Maneframe 2024</p></div>
 </body>
 </html>

@@ -24,14 +24,14 @@
 <body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none object-contain grid grid-cols-1">
 
 		<div class="z-30 w-screen h-2/5 text-center items-center content-center justify-center relative row-start-1">
-			<h1 class="text-3xl sm:text-7xl font-bold sm:text-center animate-bounce text-white m-10 mb-20 sm:m-20 z-0">MANEFRAME</h1>
+			<h1 class="text-3xl sm:text-7xl font-bold sm:text-center animate-bounce text-white m-10 mb-20 sm:m-20 sm:mt-32 z-0">MANEFRAME</h1>
 			<Typewriter mode="loop" wordInterval="3000" class="">
 				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10" id="llvm">A Hackathon for Middle and High School Students</p>
 				<p class=  "text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">June 8, 2024!</p>
 				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">Hosted at MLK Library at SJSU</p>
 			</Typewriter>
 		</div>
-		<div class="divider text-white divider-accent sm:text-4xl">
+		<div class="divider text-white divider-accent sm:text-4xl sm:mt-8">
 			APPLY!
 		</div>
 		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">

@@ -4,16 +4,7 @@
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 	import {browser} from '$app/environment';
 
-	// if (browser) {
-	// 	let text = document.getElementById("llvm");
-	// 	let typewriter = new Typewriter(text, {
-	// 		loop: true,
-	// 		autoStart: true,
-	// 	})
-	//
-	// 	typewriter.typeString("A Hackathon for Middle and High School Students").pauseFor(2500).deleteAll().typeString("Hosted at MLK Library at SJSU").pauseFor(2500).deleteAll().typeString("April 27, 2024!").pauseFor(2500).deleteAll().start() //could make more dynamic, returns obj
-	//
-	// }
+
 	import Typewriter from 'svelte-typewriter';
 
 </script>
@@ -86,19 +77,7 @@
 			<div class="text-center">
 				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 mt-2 font-bold mb-8 hover:animate-pulse">Schedule</h1>
 				<div class="text-white text-sm lg:text-md text-center justify-center content-center mb-4">
-<!--					<p>9:30 - 10:00 A.M. - Doors Open!</p>-->
-<!--					<p>10:00 - 10:15 A.M. - Opening Ceremony and Hacking Begins!!</p>-->
-<!--					<p>9:30 A.M. - Breakfast</p>-->
-<!--					<p>10:15 - 10:30 A.M. - Team Mixer</p>-->
-<!--					<p>10:30 - 11:30 A.M. - Workshops</p> &lt;!&ndash; coulds usae a tr&ndash;&gt;-->
-<!--					<p>4:00 P.M. - Submission Period Ends</p>-->
-<!--					<p>5:00 P.M. - Winner and Award Ceremony</p>-->
-<!--					<p>12:00 - 12:30 P.M. - Lunch</p>-->
-<!--					<p>1:30 - 2:30 P.M. - Panelists</p>-->
-<!--					<p>3:30 P.M. - Project Deadline</p>-->
-<!--					<p>3:30 - 4:30 P.M. - Demos</p>-->
-<!--					<p>4:30 - 4:45 P.M. - Judging/Voting</p> &lt;!&ndash; coulds usae a tr&ndash;&gt;-->
-<!--					<p>4:45 - 5:00 P.M. - Winner and Award Ceremony</p>-->
+
 					<table class="table-auto border-2 border-accent border-separate">
 						<tr>
 							<th class="border border-accent">Time</th>

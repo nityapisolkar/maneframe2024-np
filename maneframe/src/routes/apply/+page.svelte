@@ -46,11 +46,11 @@
 <div class="z-30 w-screen h-2/5 text-center content-center justify-center relative row-start-1">
     <h1 class="text-7xl font-bold text-center animate-pulse text-white m-20 z-0">Apply</h1>
     <div class="flex content-center justify-center items-center">
-        <div class="card w-96 glass shadow-xl">
+        <div class="card w-96 glass shadow-xl mb-20">
             <div class="card-body">
                 <h2 class="font-bold text-2xl text-white">Sign Up!</h2>
-                <h1 class="font-bold text-xl text-white">June 15th, 9:30 AM to 5:00 PM</h1>
-                <h1 class="font-bold text-xl text-white">MLK Library, San Jose State University</h1>
+                <h1 class="font-bold text-md text-white">June 15th, 9:30 AM to 5:00 PM</h1>
+                <h1 class="font-bold text-md text-white">MLK Library, San Jose State University</h1>
                 <!------>
                 <form method="POST">
                     <label class="form-control w-full max-w-xs">
@@ -87,6 +87,7 @@
                 <br>
                 <div class="card-actions justify-center">
                     <button class="btn glass" id="submit">SUBMIT!</button>
+                    <h1 class="text-sm text-white">This will redirect you back to the home page. Remember to check your email!</h1>
                 </div>
                 </form>
             </div>

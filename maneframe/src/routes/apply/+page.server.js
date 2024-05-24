@@ -93,8 +93,8 @@ export const actions = {
         const done = await transport.sendMail({
             from: 'Maneframe 2024 <' + ADDRESS + '>' ,
             to: llvm.get("email"),
-            subject: "Maneframe 2024",
-            text: "Thank you for signing up for Maneframe2024!",
+            subject: "Can't wait to see you at ManeFrame 2024!",
+            text: "Hi " + llvm.get("name") + ", we're so excited to see you at ManeFrame 2024!\n\nHere's what you need to do to make sure you're ready for the event:\n\n1. Sign the MANDATORY liability waiver sent to your email promptly. It should be through a workflow called Rabbitsign; after you sign the document it will be emailed to your parent/guardian to be signed on their end.\n2. Be on the lookout for more emails from us concerning event details! There will probably be important information regarding the hackathon in said emails.\n\n Once again, ManeFrame is on June 15th from 9:30 A.M. to 5:00 P.M.",
             replyTo: "maneframe24@gmail.com"
 
         })

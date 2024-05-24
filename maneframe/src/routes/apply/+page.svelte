@@ -49,6 +49,7 @@
         <div class="card w-96 glass shadow-xl">
             <div class="card-body">
                 <h2 class="font-bold text-2xl text-white">Sign Up!</h2>
+                <h1 class="font-bold text-xl text-white">June 15th, 9:30 AM to 5:00 PM</h1>
                 <form method="POST">
                     <label class="form-control w-full max-w-xs">
                         <div class="label">

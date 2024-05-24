@@ -12,65 +12,77 @@
 <html lang="en">
 
 
-<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none object-contain grid grid-cols-1">
-
-		<div class="z-30 w-screen h-2/5 text-center items-center content-center justify-center relative row-start-1">
-			<h1 class="text-3xl sm:text-7xl font-bold sm:text-center animate-bounce text-white m-10 mb-20 sm:m-20 sm:mt-32 z-0">MANEFRAME</h1>
+<body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none">
+		<div class="w-screen mt-16 mb-20">
+			<img src="/img.png" alt="logo" class="m-auto object-scale-down" width="300"/>
+		</div>
+		<div class="w-screen h-2/5 text-center items-center content-center justify-center pb-32 mb-20">
+			<h1 class="text-5xl sm:text-9xl font-bold animate-bounce-small sm:text-center text-white pt-12 mb-10 sm:m-20 sm:mt-32">ManeFrame</h1>
 			<Typewriter mode="loop" wordInterval="3000" class="">
-				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10" id="llvm">A Hackathon for Middle and High School Students</p>
-				<p class=  "text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">June 8, 2024!</p>
-				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">Hosted at MLK Library at SJSU</p>
+				<p class="text-2xl sm:text-5xl font-italic, text-center, animate-pulse text-white m-10" id="llvm">A Hackathon for Middle and High School Students</p>
+				<p class="text-2xl sm:text-5xl font-italic, text-center, animate-pulse text-white m-10">June 15, 2024 @ MLK Library, San Jose State University</p>
 			</Typewriter>
 		</div>
+		<!-- <div class="divider text-white divider-accent sm:text-4xl">
+		</div> -->
+		<div class="w-screen h-1/2 flex text-center content-center justify-center">
+
+			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Hey!</h1>
+				<p class="text-white text-xl lg:text-2xl 2xl:text3xl text-center justify-center content-center mb-4">Do you want to make something cool? Spend some time with friends? Or maybe learn something new? If so, you should come to the ManeFrame hackathon! Whether you're a seasoned programmer or just starting out, we have a place for you!</p>
+			</div>
+		</div>
+		<div class="divider text-white divider-accent sm:text-4xl">
+		</div>
+		<div class="w-screen h-1/2 flex text-center content-center justify-center">
+
+			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Guest Speakers</h1>
+				<div class="grid grid-cols-2 flex">
+					<div class="justify-center content-center">
+						<h1 class="text-2xl mb-10 underline decoration-dashed">Viraj Kadakia</h1>
+						<img src="viraj.jpeg" alt="Viraj Kadakia" width="200" class="m-auto"/>
+					</div>
+					<div class="justify-center content-center">
+						<h1 class="text-2xl mb-10 underline decoration-dashed">Sagar Joshi</h1>
+						<img src="sagar.jpeg" alt="Sagar Joshi" width="200" class="m-auto"/>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="divider text-white divider-accent sm:text-4xl sm:mt-8">
-			APPLY!
 		</div>
 		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">
-
-			<div class="text-center w-1/4 md:m-10">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 mt-8 font-bold mb-8 hover:animate-pulse">Show Your Interest!</h1>
-				<p class="text-white text-md sm:text-xl text-center justify-center content-center mb-4">ManeFrame will be at MLK Library in San Jose on June 8, 2024.</p>
+			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Join Us!</h1>
+				<p class="text-white text-md sm:text-xl text-center justify-center content-center mb-4">ManeFrame will be at the Dr. Martin Luther King Jr. Library in San Jose on June 15, 2024.</p>
 				<a href="/apply" id="llvmrefernce"><button class="button bg-white text-black text-xl md:text-2xl p-4 md:p-2 2xl:p-10 md:m-2 rounded-xl">APPLY</button></a>
 
 			</div>
 		</div>
 		<!---->
-		<div class="divider text-white divider-accent sm:text-4xl">
+		<div class="divider text-white divider-accent sm:text-4xl sm:mt-8">
 		</div>
-		<div class="w-screen flex text-center content-center justify-center content-center">
-
-			<img src="/img.png" alt="logo" class="object-scale-down"/>
-		</div>
-		<div class="divider text-white divider-accent">
-
-		</div>
-		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">
-
-			<div class="text-center w-1/2 sm:w-1/4 sm:m-10">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Hey!</h1>
-				<p class="text-white text-md lg:text-lg 2xl:text-xl text-center justify-center content-center mb-4">Do you want to make something cool? Spend some time with friends? Or maybe learn something new? If so, you should come to the ManeFrame hackathon! Whether you're a seasoned programmer or just starting out, we have a place for you!</p>
+		<div class="w-screen flex text-center content-center justify-center">
+			<div class="text-center w-3/4 sm:w-1/2 sm:m-8">
+				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold hover:animate-pulse">Frequently Asked Questions</h1>
 			</div>
 		</div>
-		<div class="divider text-white divider-accent sm:text-4xl">
-			FAQ
-		</div>
-		<div class="w-screen h-1/2 sm:flex text-center content-center justify-center content-center ">
-
+		<div class="w-screen h-1/2 sm:flex text-center content-center justify-center">
 			<div class="text-center sm:w-1/4 m-10">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2  mt-8 font-bold mb-8 hover:animate-pulse">What is a Hackathon?</h1>
+				<h1 class="text-white text-xl lg:text-2xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2  mt-8 font-bold mb-8 hover:animate-pulse">What is a Hackathon?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">A Hackathon is an event where you code a project for a certain amount of time and then get it judged. It is meant to be a fun event where you can create anything you want with freedom, and where you can explore the amazing world of computer science.</p>
 			</div>
 			<div class="text-center sm:w-1/4 m-10">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2  mt-8 font-bold mb-8 hover:animate-pulse">What do I make?</h1>
+				<h1 class="text-white text-xl lg:text-2xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2  mt-8 font-bold mb-8 hover:animate-pulse">What do I make?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">You can make whatever you want! From a simple calculator app to an online chat portal, feel free to make or submit anything. We encourage exploring and trying out new things!</p>
 			</div>
 			<div class="text-center sm:w-1/4 m-10">
-				<h1 class="text-white text-2xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Does it cost money?</h1>
+				<h1 class="text-white text-xl lg:text-2xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 hover:animate-pulse">Does it cost money?</h1>
 				<p class="text-white text-md lg:text-xl text-center justify-center content-center mb-4">Nope! Maneframe is absolutely free! We encourage anyone in middle or high school to attend.</p>
 			</div>
 		</div>
 		<div class="divider text-white divider-accent sm:text-4xl">
-			SCHEDULE!
 		</div>
 		<div class="w-screen h-1/2 flex text-center content-center justify-center content-center">
 

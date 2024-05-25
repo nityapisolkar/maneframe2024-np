@@ -13,6 +13,24 @@
 
 
 <body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none">
+	<div id="navbar">
+		<a href="javascript:void(0)" id="logo"><img src="favicon.png" alt="ManeFrame" class="nav-img"></a>
+			<div class="nav-links">
+				<a href="javascript:void(0)">About</a>
+				<a href="javascript:void(0)">FAQs</a>
+				<a href="javascript:void(0)">Speakers</a>
+				<a href="javascript:void(0)">Schedule</a>
+				<a href="javascript:void(0)">Sponsors</a>
+				<a href="javascript:void(0)">Team</a>
+				<a href="javascript:void(0)">Apply</a>
+    			</div>
+    			<div class="nav-icons">
+      				<a href="https://www.instagram.com/maneframe2024/"><img src="instagram.png" alt="Instagram" class="nav-img"></a>
+				<a href="https://discord.gg/DnUUNeyD9g"><img src="discord.svg" alt="Discord" class="nav-img"></a>
+			</div>
+	</div>
+  
+	<div class="content">
 		<div class="w-screen mt-16 mb-4">
 			<img src="/img.png" alt="logo" class="m-auto object-scale-down" width="300"/>
 		</div>
@@ -220,7 +238,7 @@
 				</div>
 				
 			</div>
-		
+	</div>
 		
 
 

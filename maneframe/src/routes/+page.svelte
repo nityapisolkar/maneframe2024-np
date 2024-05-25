@@ -32,14 +32,14 @@
 
 			</div>
 		</div>
-		<div class="w-screen h-1/2 flex text-center content-center justify-center">
+		<div class="w-screen flex text-center content-center justify-center">
 
 			<div class="text-center w-3/4 sm:w-1/2 sm:m-12">
 				<h1 class="text-white text-3xl lg:text-3xl xl:text-5xl xl:mt-16 lg:ml-16 lg:mr-16 lg:mt-2 mt-8 font-bold mb-8 p-4 hover:animate-pulse">Hey!</h1>
 				<p class="text-white text-xl lg:text-2xl 2xl:text3xl text-center justify-center content-center mb-4">Do you want to make something cool? Spend some time with friends? Or maybe learn something new? If so, you should come to the ManeFrame hackathon! Whether you're a seasoned programmer or just starting out, we have a place for you!</p>
 			</div>
 		</div>
-		<div class="divider text-white divider-white sm:text-4xl sm:mt-8">
+		<div class="divider text-white divider-white sm:text-4xl">
 		</div>
 		<!---->
 		<div class="divider text-white divider-white sm:text-4xl sm:mt-8">
@@ -215,6 +215,7 @@
 				<div class="flex content-center justify-center mb-20">
 					<div class="text-center sm:w-1/4 m-10">
 						<img src="sjsu.png" alt="SJSU" width="500" class="m-auto"/>
+						<img src="sjpl2.png" alt="SJPL" width="500" class="m-auto"/>
 					</div>
 				</div>
 				

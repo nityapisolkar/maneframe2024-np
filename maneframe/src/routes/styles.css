@@ -30,6 +30,75 @@ body {
 		linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
 }
 
+#navbar {
+  overflow: hidden;
+  /* background-color: #231F5A; */
+  background: rgba(3, 0, 46,0.8);
+  backdrop-filter: blur(25px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+#logo {
+  flex-shrink: 0;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.nav-links a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav-links a:hover {
+  color: rgb(190, 204, 249);
+}
+
+.nav-links a.active {
+  background-color: #497ba7;
+  color: white;
+}
+
+.nav-icons {
+  display: flex;
+  align-items: center;
+}
+
+.nav-icons a {
+  display: block;
+  margin-left: 10px;
+}
+
+.nav-img {
+  height: 30px;
+  width: auto;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+
 h1,
 h2,
 p {

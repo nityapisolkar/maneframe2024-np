@@ -30,13 +30,14 @@
 	<div id="navbar">
 		<a href="javascript:void(0)" id="logo"><img src="favicon.png" alt="ManeFrame" class="nav-img"></a>
 			<div class="nav-links">
-				<a href="javascript:void(0)">About</a>
-				<a href="javascript:void(0)">FAQs</a>
-				<a href="javascript:void(0)">Speakers</a>
-				<a href="javascript:void(0)">Schedule</a>
-				<a href="javascript:void(0)">Sponsors</a>
-				<a href="javascript:void(0)">Team</a>
-				<a href="javascript:void(0)">Apply</a>
+				<a href={'#'}>About</a>
+				<a href={'#'}>FAQs</a>
+				<a href={'#'}>Speakers</a>
+				<a href={'#'}>Schedule</a>
+				<a href={'#'}>Sponsors</a>
+				<a href={'#'}>Team</a>
+				<a href={'#'}>Apply</a>
+
     			</div>
     			<div class="nav-icons">
       				<a href="https://www.instagram.com/maneframe2024/"><img src="instagram.png" alt="Instagram" class="nav-img"></a>

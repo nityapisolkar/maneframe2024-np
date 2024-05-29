@@ -7,7 +7,7 @@
 
 	import Typewriter from 'svelte-typewriter';
 
-	window.onscroll = function() {myFunction()};
+	window.onscroll = function() {navbarSticky()};
 
 	var navbar = document.getElementById("navbar");
 	var sticky = navbar.offsetTop;

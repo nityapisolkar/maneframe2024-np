@@ -28,7 +28,7 @@
 
 <body class="overflow-x-hidden w-screen h-screen bg-gradient-to-b from-black to-indigo-900 resize-none">
 	<div id="navbar">
-		<a href="javascript:void(0)" id="logo"><img src="favicon.png" alt="ManeFrame" class="nav-img"></a>
+		<a href={'#'} id="logo"><img src="favicon.png" alt="ManeFrame" class="nav-img"></a>
 			<div class="nav-links">
 				<a href={'#'}>About</a>
 				<a href={'#'}>FAQs</a>
